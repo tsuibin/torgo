@@ -50,7 +50,7 @@ func init() {
 	StaticDir = make(map[string]string)
 	TemplateCache = make(map[string]*template.Template)
 	HttpAddr = ""
-	HttpPort = 80
+	HttpPort = 8080
 	Maxprocs = -1
 	AppName = "torgo"
 	RunMode = "dev" //default runmod
