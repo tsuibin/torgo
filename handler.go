@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"errors"
-	"github.com/insionng/torgo/session"
+	"./session"
 	"html/template"
 	"io"
 	"io/ioutil"

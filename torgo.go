@@ -2,7 +2,7 @@ package torgo
 
 import (
 	"fmt"
-	"github.com/insionng/torgo/session"
+	"github.com/tsuibin/torgo/session"
 	"html/template"
 	"net"
 	"net/http"
